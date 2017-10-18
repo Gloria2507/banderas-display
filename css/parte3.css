@@ -1,0 +1,22 @@
+.lab {
+  background-color: yellow;
+  padding: 75px;
+  display: inline-block;
+  width: 20%;
+  margin: 10px;
+}
+.p {
+  background-color: black;
+  width: 20%;
+  color: white;
+  padding: 75px;
+  display: inline-block;
+  margin: 10px;
+}
+.trans {
+  background-color: yellow;
+  padding: 75px;
+  width: 20%;
+  display: inline-block;
+  margin: 10px;
+}
